@@ -1,0 +1,25 @@
+{
+  "name": "scrollsyncjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hayamiz/scrollsyncjs",
+  "authors": [
+    "Yuto Hayamizu <y.hayamizu@gmail.com>"
+  ],
+  "description": "JavaScript library for synchronizing scroll status of multiple DOM objects",
+  "main": "scrollsync.js",
+  "keywords": [
+    "ui",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
